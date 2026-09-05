@@ -25,7 +25,7 @@ A personal portfolio website showcasing my skills, projects and learning journey
 - Contact section
 
 ## Live Demo
-areesh-akram.github.io/areesh-akram/
+https://areesh-akram.github.io/areesh-akram/
 ## Author
 
 Areesh Akram
